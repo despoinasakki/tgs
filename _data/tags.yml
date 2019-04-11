@@ -1,0 +1,16 @@
+books:
+  name: books
+  description: False
+  cover: assets/images/speeches.jpg
+art:
+  name: art
+  description: False
+  cover: False
+fiction:
+  name: fiction
+  description: A series of short stories that make you think.
+  cover: assets/images/fables.jpg
+psychology:
+  name: psychology # slug
+  description: False # under name in tag page
+  cover: False # e.g assets/images/tag-cover.jpg
